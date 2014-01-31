@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketBudget_desktop", "PocketBudget_desktop\PocketBudget_desktop.csproj", "{A8680C67-1EC0-4A87-8909-C791B7DF43B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketBudget.Models", "PocketBudget.Models\PocketBudget.Models.csproj", "{B17421A2-7792-4D5A-8FA2-FDF86BCFCB76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketBudget.Data", "PocketBudget.Data\PocketBudget.Data.csproj", "{798ABB19-2490-4FC9-9F88-BE8A0B0F0A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketBudget_TestClient", "PocketBudget_TestClient\PocketBudget_TestClient.csproj", "{1816FD47-1839-4412-BC06-2198A28E6E57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8680C67-1EC0-4A87-8909-C791B7DF43B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8680C67-1EC0-4A87-8909-C791B7DF43B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8680C67-1EC0-4A87-8909-C791B7DF43B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8680C67-1EC0-4A87-8909-C791B7DF43B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17421A2-7792-4D5A-8FA2-FDF86BCFCB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17421A2-7792-4D5A-8FA2-FDF86BCFCB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17421A2-7792-4D5A-8FA2-FDF86BCFCB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17421A2-7792-4D5A-8FA2-FDF86BCFCB76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798ABB19-2490-4FC9-9F88-BE8A0B0F0A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798ABB19-2490-4FC9-9F88-BE8A0B0F0A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798ABB19-2490-4FC9-9F88-BE8A0B0F0A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798ABB19-2490-4FC9-9F88-BE8A0B0F0A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1816FD47-1839-4412-BC06-2198A28E6E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1816FD47-1839-4412-BC06-2198A28E6E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1816FD47-1839-4412-BC06-2198A28E6E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1816FD47-1839-4412-BC06-2198A28E6E57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
